@@ -1,0 +1,11 @@
+C:\Users\Diabełek\Desktop\matematyczny_tetris\tetris3\bin\Debug\tetris3.exe.config
+C:\Users\Diabełek\Desktop\matematyczny_tetris\tetris3\bin\Debug\tetris3.exe
+C:\Users\Diabełek\Desktop\matematyczny_tetris\tetris3\bin\Debug\tetris3.pdb
+C:\Users\Diabełek\Desktop\matematyczny_tetris\tetris3\obj\Debug\tetris3.Form1.resources
+C:\Users\Diabełek\Desktop\matematyczny_tetris\tetris3\obj\Debug\tetris3.Properties.Resources.resources
+C:\Users\Diabełek\Desktop\matematyczny_tetris\tetris3\obj\Debug\tetris3.csproj.GenerateResource.cache
+C:\Users\Diabełek\Desktop\matematyczny_tetris\tetris3\obj\Debug\tetris3.csproj.CoreCompileInputs.cache
+C:\Users\Diabełek\Desktop\matematyczny_tetris\tetris3\obj\Debug\tetris3.exe
+C:\Users\Diabełek\Desktop\matematyczny_tetris\tetris3\obj\Debug\tetris3.pdb
+C:\Users\Diabełek\Desktop\matematyczny_tetris\tetris3\bin\Debug\tetris3.exe.CodeAnalysisLog.xml
+C:\Users\Diabełek\Desktop\matematyczny_tetris\tetris3\bin\Debug\tetris3.exe.lastcodeanalysissucceeded
