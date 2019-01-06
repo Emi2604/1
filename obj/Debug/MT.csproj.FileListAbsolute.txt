@@ -1,0 +1,10 @@
+D:\Emilia\MT\MT\MT\bin\Debug\MT.exe.config
+D:\Emilia\MT\MT\MT\bin\Debug\MT.exe
+D:\Emilia\MT\MT\MT\bin\Debug\MT.pdb
+D:\Emilia\MT\MT\MT\obj\Debug\MT.csprojAssemblyReference.cache
+D:\Emilia\MT\MT\MT\obj\Debug\MT.Form1.resources
+D:\Emilia\MT\MT\MT\obj\Debug\MT.Properties.Resources.resources
+D:\Emilia\MT\MT\MT\obj\Debug\MT.csproj.GenerateResource.cache
+D:\Emilia\MT\MT\MT\obj\Debug\MT.csproj.CoreCompileInputs.cache
+D:\Emilia\MT\MT\MT\obj\Debug\MT.exe
+D:\Emilia\MT\MT\MT\obj\Debug\MT.pdb
